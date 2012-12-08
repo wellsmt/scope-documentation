@@ -1,0 +1,21 @@
+DESCRIPTION: (Goal to be achieved by use case and sources for requirement) Device is saved and registered on persistent datastore and uniquely identified by system.
+
+ACTORS: (List of actors involved in use case) 
+1. User - The Human Operator that purchased device
+2. User Console - This Application allows you to register your connected device on the Network and registers it for datastore.
+3. Google Web Servers - ...
+
+ASSUMPTIONS: (Conditions that must be true for use case to terminate successfully) 
+1. Successfull save and display of device in User Console.
+2. Successfull Hearbeat message to device from User Console.
+
+STEPS: (Interactions between actors and system that are necessary to achieve goal)
+1. TBD
+
+VARIATIONS: (Any variations in the steps of a use case)
+
+NON-FUNCTIONAL: (List of non-functional requirements that the use case must meet.)
+TBD
+
+ISSUES: (List of issues that remain to be resolved)
+TBD
