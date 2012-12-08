@@ -1,0 +1,21 @@
+DESCRIPTION: (Goal to be achieved by use case and sources for requirement) WiFi-Microchip Device (aka: The Big Tacuna) successfully registers with Network and datastream and device are visible and configurable.
+
+ACTORS: (List of actors involved in use case) 
+1. Big Tacuna Device - This is the WiFi enabled board created
+2. User Console - This Application allows you to register your connected device on the Network and registers it for datastore.
+
+ASSUMPTIONS: (Conditions that must be true for use case to terminate successfully) 
+1. Successfull registration of unique device.
+2. Successfull save of data from the device to datastore.
+
+STEPS: (Interactions between actors and system that are necessary to achieve goal)
+1. Device is powered on and broadcasts WiFi Signal.
+2. User opens Web Broswer and (Use Case - Navigates to User Console).
+3. In User Console user (Use Case - Registers Device in User Console)
+
+VARIATIONS: (Any variations in the steps of a use case)
+
+NON-FUNCTIONAL: (List of non-functional requirements that the use case must meet.)
+
+ISSUES: (List of issues that remain to be resolved)
+Well...there's lots of issues, like how the hell is this suppossed to work.  This Use Case is more geared as a starting point for what we want the system to do and not so much the technology that will make it all possible.
